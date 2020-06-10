@@ -4,7 +4,7 @@
 
 ## 미리보기
 
-[![hong-portfolio Preview](https://pam7462.github.io/portfolio2/img/portfolio.png ](https://pam7462.github.io/portfolio2)
+[![hong-portfolio Preview](https://pam7462.github.io/portfolio2/img/portfolio.png)](https://pam7462.github.io/portfolio2)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-business-casual/)**
 
