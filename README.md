@@ -6,7 +6,7 @@
 
 [![hong-portfolio Preview](https://pam7462.github.io/portfolio2/img/portfolio.png)](https://pam7462.github.io/portfolio2)
 
-**[실시간 미리보기](https://pam7462.github.io/portfolio2)**
+***[실시간 미리보기](https://pam7462.github.io/portfolio2)***
 
 ## Status
 
