@@ -2,9 +2,9 @@
 
 정말 열심히 만들고 있는 
 
-## Preview
+## 미리보기
 
-[![Business Casual Preview](https://startbootstrap.com/assets/img/screenshots/themes/business-casual.png)](https://blackrockdigital.github.io/startbootstrap-business-casual/)
+[![hong-portfolio Preview](https://pam7462.github.io/portfolio2/img/portfolio.png ](https://pam7462.github.io/portfolio2)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-business-casual/)**
 
